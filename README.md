@@ -16,9 +16,10 @@ Here are some quick links:
 * [Usage](https://deauther.com/docs/category/usage)
 * [FAQ](https://deauther.com/docs/faq)
 
-## Password
+## SSID or ACCESS POINT
 
-The password for `pwned` is `deauther`
+SSID: `Dea-V1`
+PASSWORD: `deauther`
 
 ## About this Project
 
