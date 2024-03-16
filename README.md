@@ -1,4 +1,4 @@
-# ESP8266 Deauther
+# ESP8266 Deauther | Remake To Dea-V1
 
 <img src='https://deauther.com/img/logo.png' alt='Deauther Logo' width='200' />
 
